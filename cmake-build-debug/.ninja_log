@@ -1,0 +1,6 @@
+# ninja log v5
+29	46	1714944873864299429	work_course	299a78b2ec8b8d62
+1	29	1714944873848232780	CMakeFiles/work_course.dir/main.c.o	3f250d315a9465f6
+1	29	1714946437548521289	CMakeFiles/work_course.dir/mathOperations.c.o	433b4b12d52f5a91
+1	36	1714946437556520086	CMakeFiles/work_course.dir/main.c.o	3f250d315a9465f6
+36	53	1714946437572517678	work_course	b48c0e194fb37e7d
